@@ -10,3 +10,5 @@ Monaco Core: Robust syntax highlighting and IntelliSense for multiple languages
 Live Preview: Real-time rendering of your code changes
 Cloud Native: Optimized for web development and quick prototyping
 Modern UI: Clean, dark-themed interface inspired by modern aesthetics
+<img width="1024" height="1024" alt="NX" src="https://github.com/user-attachments/assets/3568663b-5e26-407f-9cbd-80deadd3d39e" />
+
