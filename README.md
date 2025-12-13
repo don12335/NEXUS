@@ -1,5 +1,4 @@
 ![Windows](https://img.shields.io/badge/Windows-10%2F11%2B-0078D6?logo=windows&logoColor=white)
-
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
 
 # NEXUS
