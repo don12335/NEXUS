@@ -12,3 +12,5 @@ Cloud Native: Optimized for web development and quick prototyping
 Modern UI: Clean, dark-themed interface inspired by modern aesthetics
 <img width="1024" height="1024" alt="NX" src="https://github.com/user-attachments/assets/3568663b-5e26-407f-9cbd-80deadd3d39e" />
 
+![Windows](https://img.shields.io/badge/Windows-10%2F11%2B-0078D6?logo=windows&logoColor=white)
+
